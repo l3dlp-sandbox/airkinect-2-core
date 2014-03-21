@@ -28,7 +28,7 @@
 	#endif
 	#ifdef AIRKINECT_TARGET_MSSDK
 		#pragma comment(lib, "Kinect10.lib") //include kinect sdk library
-		#pragma comment(lib, "KinectInteraction170_32.lib") //include kinect interaction library
+		#pragma comment(lib, "KinectInteraction180_32.lib") //include kinect interaction library
 	#endif
 	#include <windows.h>
 	#include <ole2.h>
